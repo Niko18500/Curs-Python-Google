@@ -1,0 +1,9 @@
+Sunt ok comenzile de pe slide mai putin aia cu activate
+
+Se ruleaza cu:
+source bin/activate
+(din venv->folder-ul creat)
+
+
+Si pt deactivare:
+deactivate
